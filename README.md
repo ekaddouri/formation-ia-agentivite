@@ -10,9 +10,10 @@ Formation autonome pour les enseignants de lycée professionnel : concevoir, tes
 - Suivi de six indicateurs d'agentivité sur plusieurs séances, avec une vérification différée.
 - Choix du parcours (complet ou court), état des productions en direct, rappel de vos productions d'une étape à l'autre.
 - Sauvegarde et restauration en .json pour changer d'ordinateur.
+- Citations des deux conférences vérifiées sur leurs transcriptions intégrales (automatiques), avec indication de qui parle.
 
 Les saisies restent dans le navigateur de la personne qui suit la formation et ne sont envoyées à personne. On peut les exporter en texte, ou les sauvegarder en .json pour les restaurer sur un autre ordinateur. Les vidéos se chargent seulement quand on clique dessus.
 
 Les propos d'André Tricot sont cités mot pour mot, avec leur source et leur minutage. Les minutages de la conférence de mars 2026 viennent d'une transcription automatique : vérifiez sur la vidéo avant de citer un passage.
 
-Lycée professionnel Alfred Sauvy, version 6, octobre 2026.
+Lycée professionnel Alfred Sauvy, version 6.3, octobre 2026.
