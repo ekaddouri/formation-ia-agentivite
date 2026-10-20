@@ -8,9 +8,11 @@ Formation autonome pour les enseignants de lycée professionnel : concevoir, tes
 - Parcours court : 1 h 40.
 - Deux laboratoires 1cours1bot : une fiche de configuration selon le type d'assistant, des messages de test, une comparaison A/B, des cas limites et un guide pour savoir quand reprendre la main.
 - Suivi de six indicateurs d'agentivité sur plusieurs séances, avec une vérification différée.
+- Choix du parcours (complet ou court), état des productions en direct, rappel de vos productions d'une étape à l'autre.
+- Sauvegarde et restauration en .json pour changer d'ordinateur.
 
-Les saisies restent dans le navigateur de la personne qui suit la formation et ne sont envoyées à personne. Un bouton permet de les exporter en texte. Les vidéos se chargent seulement quand on clique dessus.
+Les saisies restent dans le navigateur de la personne qui suit la formation et ne sont envoyées à personne. On peut les exporter en texte, ou les sauvegarder en .json pour les restaurer sur un autre ordinateur. Les vidéos se chargent seulement quand on clique dessus.
 
 Les propos d'André Tricot sont cités mot pour mot, avec leur source et leur minutage. Les minutages de la conférence de mars 2026 viennent d'une transcription automatique : vérifiez sur la vidéo avant de citer un passage.
 
-Lycée professionnel Alfred Sauvy, version 5, octobre 2026.
+Lycée professionnel Alfred Sauvy, version 6, octobre 2026.
